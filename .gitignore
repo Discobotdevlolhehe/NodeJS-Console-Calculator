@@ -1,0 +1,6 @@
+node_modules/
+test/
+package-lock.json
+test.mjs
+test2.mjs
+tree.txt
