@@ -35,7 +35,7 @@ This was a project I made all the way back in summer. I made this project to hel
 ```bash
 node index.mjs
 ```
-this all local deployment, I dont plan on making a replit/heroku deployment for this
+this is for local deployment, I dont plan on making a replit/heroku deployment for this
 ---
 
 # 
